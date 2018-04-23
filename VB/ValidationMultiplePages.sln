@@ -1,0 +1,84 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ValidationMultiplePages", "ValidationMultiplePages\", "{9886E794-9BCC-48B5-A82B-789150723A56}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/ValidationMultiplePages"
+		Debug.AspNetCompiler.PhysicalPath = "ValidationMultiplePages\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ValidationMultiplePages\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ValidationMultiplePages"
+		Release.AspNetCompiler.PhysicalPath = "ValidationMultiplePages\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ValidationMultiplePages\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53333"
+		SlnRelativePath = "ValidationMultiplePages\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		DebugTest|.NET = DebugTest|.NET
+		DebugTest|Any CPU = DebugTest|Any CPU
+		DebugTest|Mixed Platforms = DebugTest|Mixed Platforms
+		DebugTestWithGAC|.NET = DebugTestWithGAC|.NET
+		DebugTestWithGAC|Any CPU = DebugTestWithGAC|Any CPU
+		DebugTestWithGAC|Mixed Platforms = DebugTestWithGAC|Mixed Platforms
+		DebugWithGAC|.NET = DebugWithGAC|.NET
+		DebugWithGAC|Any CPU = DebugWithGAC|Any CPU
+		DebugWithGAC|Mixed Platforms = DebugWithGAC|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Debug|.NET.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTest|.NET.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTest|.NET.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTest|Any CPU.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTest|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTest|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTestWithGAC|.NET.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTestWithGAC|.NET.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTestWithGAC|Any CPU.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTestWithGAC|Any CPU.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTestWithGAC|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugTestWithGAC|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugWithGAC|.NET.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugWithGAC|.NET.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugWithGAC|Any CPU.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugWithGAC|Any CPU.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugWithGAC|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.DebugWithGAC|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Release|.NET.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Release|.NET.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9886E794-9BCC-48B5-A82B-789150723A56}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BA025F5-6B0C-411A-ADC6-9104724297B0}
+	EndGlobalSection
+EndGlobal
