@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/ValidationMultiplePages/Default.aspx) (VB: [Default.aspx.vb](./VB/ValidationMultiplePages/Default.aspx.vb))
+* [Default.aspx](./CS/ValidationMultiplePages/Default.aspx) (VB: [Default.aspx](./VB/ValidationMultiplePages/Default.aspx))
 * [Default.aspx.cs](./CS/ValidationMultiplePages/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ValidationMultiplePages/Default.aspx.vb))
 <!-- default file list end -->
 # Validation within a multi-page container
