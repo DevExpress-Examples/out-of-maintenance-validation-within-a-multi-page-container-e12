@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/ValidationMultiplePages/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ValidationMultiplePages/Default.aspx.vb))
 <!-- default file list end -->
 # Validation within a multi-page container
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e12/)**
+<!-- run online end -->
 
 
 <p>This demo shows how to implement editor validation within the ASPxPageControl</p><p><strong>See</strong><strong> also:<br />
