@@ -22,7 +22,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ValidationMultiplePages", "
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "53333"
 		SlnRelativePath = "ValidationMultiplePages\"
-		DefaultWebSiteLanguage = "Visual C#"
+		DefaultWebSiteLanguage = "Visual Basic"
 	EndProjectSection
 EndProject
 Global
